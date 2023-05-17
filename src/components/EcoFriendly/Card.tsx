@@ -1,6 +1,6 @@
 const Card = () => {
   return (
-    <div className="w-[350px] h-[400px] absolute top-10 left-2 md:left-[40%] px-8 py-8 bg-white rounded-lg">
+    <div className="w-[350px] h-[400px] absolute top-10 left-1 md:left-[40%] px-8 py-8 bg-white rounded-lg">
       <span className="slug text-[#7EB693] ">Eco Friendlly</span>
       <h2 className="text-[#274C5B] text-3xl font-bold ">
         Econis is a Friendly Organic Store

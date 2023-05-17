@@ -4,7 +4,7 @@ import HeroInfo from "./HeroInfo";
 const Hero = () => {
   return (
     <div className="mb-8">
-      <section className="bg-[#F9F8F8] flex flex-col md:flex-row justify-between ">
+      <section className="bg-[#F9F8F8] p-2  flex flex-col md:flex-row justify-between ">
         <HeroInfo />
         <img
           src="/Banner.jpg"

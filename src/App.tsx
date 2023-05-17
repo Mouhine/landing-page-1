@@ -11,7 +11,7 @@ import News from "./components/news/News";
 
 function App() {
   return (
-    <div>
+    <div className="mx-3">
       <NavBar />
       <Hero />
       <About />
