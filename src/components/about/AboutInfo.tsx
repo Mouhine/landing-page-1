@@ -1,6 +1,6 @@
 const AboutInfo = () => {
   return (
-    <div className="flex flex-col pt-8 pl-8 space-y-4 items-start lg:absolute left-[50%] max-w-[400px] ">
+    <div className="flex flex-col pt-8 pl-2 space-y-4 items-start lg:absolute left-[50%]  lg:max-w-[500px] ">
       <span className="slug text-[#7EB693]  font-thin ">About Us</span>
       <h2 className="text-[#274C5B] text-3xl font-bold ">
         We Believe in in Working Accredited Farmers
@@ -25,7 +25,7 @@ const AboutInfo = () => {
         </section>
         <section className="flex items start space-x-5">
           <button className="p-4 rounded-lg bg-white border">
-            <img src="/Group 2.svg" alt="" />
+            <img src="/Group 2.svg" className="" alt="" />
           </button>
           <div>
             <h3 className="text-[#274C5B]">Quality Standards</h3>
