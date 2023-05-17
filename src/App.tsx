@@ -1,5 +1,3 @@
-import { useState } from "react";
-
 import NavBar from "./components/navbar";
 import Footer from "./components/footer/Footer";
 import Hero from "./components/heroSection/Hero";
@@ -12,8 +10,6 @@ import OfferProducts from "./components/OfferProducts";
 import News from "./components/news/News";
 
 function App() {
-  const [count, setCount] = useState(0);
-
   return (
     <div>
       <NavBar />
