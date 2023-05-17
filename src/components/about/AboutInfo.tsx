@@ -1,5 +1,3 @@
-import React from "react";
-
 const AboutInfo = () => {
   return (
     <div className="flex flex-col pt-8 pl-8 space-y-4 items-start lg:absolute left-[50%] max-w-[400px] ">

@@ -1,5 +1,3 @@
-import React from "react";
-
 const Card = () => {
   return (
     <div className="w-[350px] h-[400px] absolute top-10 left-2 md:left-[40%] px-8 py-8 bg-white rounded-lg">

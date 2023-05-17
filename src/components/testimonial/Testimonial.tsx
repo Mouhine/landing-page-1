@@ -1,4 +1,3 @@
-import React from "react";
 import { AiOutlineStar } from "react-icons/ai";
 import Statics from "./Statics";
 const Testimonial = () => {

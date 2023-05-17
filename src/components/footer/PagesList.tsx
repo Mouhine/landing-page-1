@@ -1,5 +1,3 @@
-import React from "react";
-
 const PagesList = () => {
   return (
     <div className="flex flex-col space-y-4 p-4 w-[200px]  ">

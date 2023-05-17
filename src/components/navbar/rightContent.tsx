@@ -1,4 +1,3 @@
-import React from "react";
 import { AiOutlineShoppingCart } from "react-icons/ai";
 import { CiSearch } from "react-icons/ci";
 const RightContent = () => {

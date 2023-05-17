@@ -1,5 +1,3 @@
-import React from "react";
-
 const LinkList = () => {
   return (
     <div className="hidden lg:block ">

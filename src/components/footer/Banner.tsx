@@ -1,5 +1,3 @@
-import React from "react";
-
 const Banner = () => {
   return (
     <div className="max-w-5xl p-2 mx-auto flex md:flex-row flex-col items-center justify-around lg:px-16 bg-[url('/Photo.jpg')]  min-h-[200px] rounded-xl border">
