@@ -17,7 +17,7 @@ const Testimonial = () => {
             />
           </div>
           <div className="flex items-center text-orange-400 space-x-1">
-            {new Array(5).fill(null).map((s, i) => {
+            {new Array(5).fill(null).map((_, i) => {
               return <AiOutlineStar key={i} />;
             })}
           </div>

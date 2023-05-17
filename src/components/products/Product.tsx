@@ -25,7 +25,7 @@ const Product: React.FC<Props> = ({ imgUrl, title, price }) => {
           {price + ",00 $"}
         </span>
         <div className="flex items-center text-orange-500 ">
-          {new Array(5).fill(null).map((s, i) => {
+          {new Array(5).fill(null).map((_, i) => {
             return <AiFillStar key={i} />;
           })}
         </div>
